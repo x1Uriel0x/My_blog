@@ -36,7 +36,7 @@ export default function Header() {
           className="font-serif font-medium text-base hidden sm:block"
           style={{ letterSpacing: "-0.02em", color: "var(--color-dark)" }}
         >
-          Sebastián
+          Steven
         </span>
       </div>
       {/* Nav links — desktop */}

@@ -18,7 +18,7 @@ export default function Footer() {
               className="text-sm font-medium"
               style={{ color: "var(--color-muted)" }}
             >
-              © {year} Sebastián Morales
+              © {year} Steven Flores
             </span>
           </div>
 
@@ -41,7 +41,7 @@ export default function Footer() {
           {/* Social icons */}
           <div className="flex items-center gap-3">
             <a
-              href="https://github.com/sebastianmorales"
+              href="https://github.com/x1Uriel0x"
               target="_blank"
               rel="noopener noreferrer"
               className="w-9 h-9 rounded-full border flex items-center justify-center transition-all hover:scale-110"
@@ -49,12 +49,12 @@ export default function Footer() {
                 borderColor: "var(--color-border)",
                 color: "var(--color-muted)",
               }}
-              aria-label="GitHub de Sebastián Morales"
+              aria-label="GitHub de Steven Flores"
             >
               <Icon name="CodeBracketIcon" size={15} />
             </a>
             <a
-              href="https://linkedin.com/in/sebastianmorales"
+              href="www.linkedin.com/in/stevęn-floręs-03469b329"
               target="_blank"
               rel="noopener noreferrer"
               className="w-9 h-9 rounded-full border flex items-center justify-center transition-all hover:scale-110"
@@ -62,7 +62,7 @@ export default function Footer() {
                 borderColor: "var(--color-border)",
                 color: "var(--color-muted)",
               }}
-              aria-label="LinkedIn de Sebastián Morales"
+              aria-label="LinkedIn de Steven Flores"
             >
               <Icon name="LinkIcon" size={15} />
             </a>
@@ -75,7 +75,7 @@ export default function Footer() {
                 borderColor: "var(--color-border)",
                 color: "var(--color-muted)",
               }}
-              aria-label="Twitter de Sebastián Morales"
+              aria-label="Twitter de Steven Flores"
             >
               <Icon name="ChatBubbleLeftIcon" size={15} />
             </a>

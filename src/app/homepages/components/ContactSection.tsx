@@ -87,7 +87,7 @@ export default function ContactSection() {
               className={`reveal delay-3 ${!visible ? "hidden" : ""} space-y-4`}
             >
               <a
-                href="mailto:hola@sebastianmorales.dev"
+                href="mailto:hola@stevenflores.dev"
                 className="flex items-center gap-4 group"
               >
                 <div
@@ -108,7 +108,7 @@ export default function ContactSection() {
                 </span>
               </a>
               <a
-                href="https://linkedin.com/in/sebastianmorales"
+                href="www.linkedin.com/in/stevęn-floręs-03469b329"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 group"
@@ -131,7 +131,7 @@ export default function ContactSection() {
                 </span>
               </a>
               <a
-                href="https://github.com/sebastianmorales"
+                href="https://github.com/x1Uriel0x"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 group"
@@ -150,7 +150,7 @@ export default function ContactSection() {
                   className="text-sm font-medium group-hover:text-white transition-colors"
                   style={{ color: "rgba(253,251,247,0.6)" }}
                 >
-                  github.com/sebastianmorales
+                  github.com/x1Uriel0x
                 </span>
               </a>
             </div>

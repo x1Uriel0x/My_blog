@@ -77,12 +77,12 @@ export default function HeroSection() {
               animationDelay: "0.2s"
             }}>
             
-            <span className="block text-dark">Sebastián</span>
+            <span className="block text-dark">Steven</span>
             <span
               className="block italic font-light text-outline-dark"
               style={{ opacity: 0.55 }}>
               
-              Morales
+              Flores
             </span>
           </h1>
         </div>
@@ -206,13 +206,13 @@ export default function HeroSection() {
                   className="text-3xl font-serif font-medium"
                   style={{ color: "var(--color-dark)" }}>
                   
-                  24
+                 
                 </span>
                 <span
                   className="text-xs font-medium"
                   style={{ color: "var(--color-muted)" }}>
                   
-                  artículos
+                 
                 </span>
               </div>
               <div className="flex items-baseline gap-2">
@@ -220,7 +220,7 @@ export default function HeroSection() {
                   className="text-3xl font-serif font-medium"
                   style={{ color: "var(--color-amber)" }}>
                   
-                  8
+                  3
                 </span>
                 <span
                   className="text-xs font-medium"
