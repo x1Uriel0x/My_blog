@@ -123,9 +123,10 @@ export default function AboutSection() {
 
             {/* Download CV button */}
             <a
-              href="#"
-              className="btn-outline-dark inline-flex items-center gap-3 px-6 py-3 rounded-full text-sm font-semibold">
-              
+              href="/cv-steven-flores.pdf"
+              download
+              className="btn-outline-dark inline-flex items-center gap-3 px-6 py-3 rounded-full text-sm font-semibold"
+            >
               <Icon name="DocumentArrowDownIcon" size={18} />
               Descargar CV
             </a>
