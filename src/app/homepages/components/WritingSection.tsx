@@ -34,7 +34,7 @@ const posts = [
     readTime: "10 min",
     featured: false,
   },
-  {
+  /*{
     number: "04",
     title: "Cómo construí un SaaS en 30 días (y lo que aprendí)",
     excerpt:
@@ -43,9 +43,9 @@ const posts = [
     date: "Dic 2025",
     readTime: "12 min",
     featured: false,
-  },
+  },*/
   {
-    number: "05",
+    number: "04",
     title: "Framer Motion: animaciones que no se sienten de plantilla",
     excerpt:
       "Técnicas avanzadas de easing, stagger y scroll-linked animations para elevar la UX de tus proyectos.",
@@ -116,13 +116,13 @@ export default function WritingSection() {
               className="text-lg font-serif pb-1 transition-opacity hover:opacity-100"
               style={{ opacity: 0.3 }}
             >
-              Tutoriales
+              T
             </button>
             <button
               className="text-lg font-serif pb-1 transition-opacity hover:opacity-100"
               style={{ opacity: 0.3 }}
             >
-              Reflexiones
+              R
             </button>
           </div>
         </div>
