@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     "React",
     "Next.js",
     "TypeScript",
-    "Bogotá",
+    "Nicaragua",
   ],
   authors: [{ name: "Steven Flores" }],
   openGraph: {
